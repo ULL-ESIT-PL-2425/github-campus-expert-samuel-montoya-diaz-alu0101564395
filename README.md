@@ -2,9 +2,9 @@
 # Github Campus Expert 
 
 ## Autor:
-- Nombre: Samuel 
-- Apellidos: Montoya Díaz 
-- Identificador: alu0101564395
+- ***Nombre:*** Samuel 
+- ***Apellidos:*** Montoya Díaz 
+- ***Identificador:*** alu0101564395
 
 ## Índice
 1. [Cuestionario](#Rellenar-el-cuestionario-GitHub-Alu-del-campus-virtual-y-recibir-el-correo-confirmándolo)
