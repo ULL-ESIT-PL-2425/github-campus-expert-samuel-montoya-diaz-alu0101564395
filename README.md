@@ -16,18 +16,18 @@
 [- Gitub-Backpack](#Solicitud-para-el-GitHub-Backpack)
 
 
-### Rellenar el cuestionario GitHub Alu del campus-virtual y recibir el correo confirmándolo
+## Rellenar el cuestionario GitHub Alu del campus-virtual y recibir el correo confirmándolo
 
 ![correo de confirmacion del cuestionario](docs/Correo.png)
 
-### Creación del equipo con nombre correcto
+## Creación del equipo con nombre correcto
 
 ![equipo](docs/Equipo.png)
 
-### Creación del project board kanban para este repositorio
+## Creación del project board kanban para este repositorio
 
 ![project board kanban](docs/Kanban_Board.png)
 
-### Solicitud para el GitHub Backpack
+## Solicitud para el GitHub Backpack
 
 ![github backpack](docs/backpack.png)
