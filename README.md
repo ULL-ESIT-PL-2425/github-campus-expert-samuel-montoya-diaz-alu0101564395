@@ -9,14 +9,14 @@
 
 ![correo de confirmacion del cuestionario](docs/Correo.png)
 
-## Crear equipo con nombre correcto
+## Creación del equipo con nombre correcto
 
 ![equipo](docs/Equipo.png)
 
-## Crear un project board kanban para este repositorio
+## Creación del project board kanban para este repositorio
 
 ![project board kanban](docs/project_board.png)
 
-## Solicitar el GitHub Backpack
+## Solicitud para el GitHub Backpack
 
 ![github backpack](docs/backpack.png)
