@@ -12,7 +12,7 @@
 [Kanban](#Creación-del-project-board-kanban-para-este-repositorio)
 [Gitub-Backpack](#Solicitud-para-el-GitHub-Backpack)
 
-### <a name="Rellenar-el-cuestionario-GitHub-Alu-del-campus-virtual-y-recibir-el-correo-confirmándolo"></a>Cuestionario
+### Rellenar el cuestionario GitHub Alu del campus-virtual y recibir el correo confirmándolo
 
 ![correo de confirmacion del cuestionario](docs/Correo.png)
 
