@@ -37,4 +37,4 @@ ___
 ___
 ### Solicitud para el GitHub Backpack
 
-![github backpack](docs/GitHub-Backpack.png)
+![github backpack](docs/Github-Backpack.png)
