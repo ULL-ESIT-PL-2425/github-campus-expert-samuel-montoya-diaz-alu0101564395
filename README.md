@@ -22,7 +22,7 @@
 
 
 
-
+___
 ### Rellenar el cuestionario GitHub Alu del campus-virtual y recibir el correo confirmándolo
 
 ![correo de confirmacion del cuestionario](docs/Correo.png)
