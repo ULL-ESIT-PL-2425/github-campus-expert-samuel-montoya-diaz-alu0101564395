@@ -2,18 +2,18 @@
 # Github Campus Expert 
 
 ## Autor:
-- Samuel 
-- Montoya Díaz 
-- alu0101564395
+- Nombre: Samuel 
+- Apellidos: Montoya Díaz 
+- Identificador: alu0101564395
 
 ## Índice
-- [Cuestionario](#Rellenar-el-cuestionario-GitHub-Alu-del-campus-virtual-y-recibir-el-correo-confirmándolo)
+1. [Cuestionario](#Rellenar-el-cuestionario-GitHub-Alu-del-campus-virtual-y-recibir-el-correo-confirmándolo)
 
-- [Equipo](#Creación-del-equipo-con-nombre-correcto)
+2. [Equipo](#Creación-del-equipo-con-nombre-correcto)
 
-- [Kanban](#Creación-del-project-board-kanban-para-este-repositorio)
+3. [Kanban](#Creación-del-project-board-kanban-para-este-repositorio)
 
-- [Gitub-Backpack](#Solicitud-para-el-GitHub-Backpack)
+4. [Gitub-Backpack](#Solicitud-para-el-GitHub-Backpack)
 
 
 
@@ -26,15 +26,15 @@
 ### Rellenar el cuestionario GitHub Alu del campus-virtual y recibir el correo confirmándolo
 
 ![correo de confirmacion del cuestionario](docs/Correo.png)
-
+___
 ### Creación del equipo con nombre correcto
 
 ![equipo](docs/Equipo.png)
-
+___
 ### Creación del project board kanban para este repositorio
 
 ![project board kanban](docs/Kanban_Board.png)
-
+___
 ### Solicitud para el GitHub Backpack
 
 ![github backpack](docs/backpack.png)
