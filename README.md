@@ -7,27 +7,34 @@
 - alu0101564395
 
 ## Índice
-[- Cuestionario](#Rellenar-el-cuestionario-GitHub-Alu-del-campus-virtual-y-recibir-el-correo-confirmándolo)
+- [Cuestionario](#Rellenar-el-cuestionario-GitHub-Alu-del-campus-virtual-y-recibir-el-correo-confirmándolo)
 
-[- Equipo](#Creación-del-equipo-con-nombre-correcto)
+- [Equipo](#Creación-del-equipo-con-nombre-correcto)
 
-[- Kanban](#Creación-del-project-board-kanban-para-este-repositorio)
+- [Kanban](#Creación-del-project-board-kanban-para-este-repositorio)
 
-[- Gitub-Backpack](#Solicitud-para-el-GitHub-Backpack)
+- [Gitub-Backpack](#Solicitud-para-el-GitHub-Backpack)
 
 
-## Rellenar el cuestionario GitHub Alu del campus-virtual y recibir el correo confirmándolo
+
+
+
+
+
+
+
+### Rellenar el cuestionario GitHub Alu del campus-virtual y recibir el correo confirmándolo
 
 ![correo de confirmacion del cuestionario](docs/Correo.png)
 
-## Creación del equipo con nombre correcto
+### Creación del equipo con nombre correcto
 
 ![equipo](docs/Equipo.png)
 
-## Creación del project board kanban para este repositorio
+### Creación del project board kanban para este repositorio
 
 ![project board kanban](docs/Kanban_Board.png)
 
-## Solicitud para el GitHub Backpack
+### Solicitud para el GitHub Backpack
 
 ![github backpack](docs/backpack.png)
