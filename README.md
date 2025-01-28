@@ -1,16 +1,20 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17907297)
 # Github Campus Expert 
 
-# Author:
+## Autor:
 - Samuel 
 - Montoya Díaz 
 - alu0101564395
 
-# Index
+## Índice
 [Cuestionario](#Rellenar-el-cuestionario-GitHub-Alu-del-campus-virtual-y-recibir-el-correo-confirmándolo)
-[Equipo](#Creacion-del-equipo-con-nombre-correcto)
+
+[Equipo](#Creación-del-equipo-con-nombre-correcto)
+
 [Kanban](#Creación-del-project-board-kanban-para-este-repositorio)
+
 [Gitub-Backpack](#Solicitud-para-el-GitHub-Backpack)
+
 
 ### Rellenar el cuestionario GitHub Alu del campus-virtual y recibir el correo confirmándolo
 
